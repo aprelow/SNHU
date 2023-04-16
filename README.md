@@ -1,1 +1,1 @@
-# SNHU
+# SNHU programming c++
